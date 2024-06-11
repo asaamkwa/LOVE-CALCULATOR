@@ -1,6 +1,6 @@
 
- var nameOne = prompt("what is your name?");
- var nameTwo = prompt("what is your Boy/Girl friend names?");
+ var nameOne = prompt("What is your name?");
+ var nameTwo = prompt("What is your Boy/Girl friend names?");
 
 
 var firstLetterName1 = nameOne.slice(0,1);
